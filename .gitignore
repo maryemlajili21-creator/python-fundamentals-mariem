@@ -1,0 +1,11 @@
+# Ignorer l'environnement virtuel
+.venv/
+venv/
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
