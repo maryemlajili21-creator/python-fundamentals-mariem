@@ -1,0 +1,5 @@
+Time,Weather,Temperature (C),Apparent Temperature (C),Humidity,Wind Speed (km/h)
+2025-01-01 00:00,Clear,15.0,15.0,0.7,10
+2025-01-01 01:00,Cloudy,14.5,14.0,0.72,12
+2025-01-01 02:00,Rain,13.2,13.0,0.8,8
+2025-01-01 03:00,Clear,12.0,12.0,,5
