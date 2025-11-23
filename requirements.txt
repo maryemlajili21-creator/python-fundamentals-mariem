@@ -1,0 +1,7 @@
+sqlalchemy
+pymysql
+mongoengine
+pymupdf4llm
+pandas
+mypy
+ruff

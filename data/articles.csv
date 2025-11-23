@@ -1,0 +1,4 @@
+title;summary;file_path;arxiv_id;author_full_name;author_title
+"Attention Is All You Need";"The Transformer architecture and self-attention mechanism for sequence transduction";"papers/article1.pdf";"1706.03762";"Ashish Vaswani";"Research Scientist"
+"BERT: Pre-training of Deep Bidirectional Transformers";"BERT model for language understanding using masked language modeling";"papers/article2.pdf";"1810.04805";"Jacob Devlin";"Research Scientist"
+"Deep Residual Learning for Image Recognition";"ResNet architecture with residual connections for very deep networks";"papers/article3.pdf";"1512.03385";"Kaiming He";"Research Scientist"
