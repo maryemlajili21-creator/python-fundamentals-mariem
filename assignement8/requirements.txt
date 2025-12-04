@@ -1,0 +1,20 @@
+# Core data & HTTP
+pandas==2.3.2
+requests==2.31.0
+
+# Databases
+SQLAlchemy==2.0.23
+pymysql==1.1.0
+pymongo==4.10.1
+mongoengine==0.27.0
+
+# Parsing / HTML
+lxml==5.3.0
+beautifulsoup4==4.12.3
+
+# Progress bar (as in slides)
+tqdm==4.66.6
+
+# Dev tools (from slides style)
+mypy==1.8.0
+ruff==0.1.9
